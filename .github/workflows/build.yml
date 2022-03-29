@@ -1,8 +1,8 @@
-name: Build geoip.dat
+name: Build GeoLite2.dat
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 4"
+    - cron: "0 0 * * 2,4,7"
   push:
     branches:
       - master
