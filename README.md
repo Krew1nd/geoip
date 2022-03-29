@@ -16,3 +16,9 @@ Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项
 [https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb](https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb)
 - **GeoLite2.mmdb.sha256sum**：
 [https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb.sha256sum](https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb.sha256sum)
+
+## License
+
+[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This product includes GeoLite2 data created by MaxMind, available from [MaxMind](http://www.maxmind.com).
