@@ -2,7 +2,7 @@ name: Build GeoLite2.mmdb
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 */3 * *'"
+    - cron: "0 2 */3 * *"
   push:
     branches:
       - master
