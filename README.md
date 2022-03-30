@@ -1,12 +1,13 @@
 # 简介
 
-Forked from [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每天0点自动生成 MaxMind mmdb 格式文件`GeoLite2.mmdb`
+Forked from [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，部分参考[unknowntokyo/GeoIP](https://github.com/unknowntokyo/GeoIP)，本项目每天0点自动生成 MaxMind mmdb 格式文件`GeoLite2.mmdb`
 
 [![Build GeoLite2.mmdb](https://github.com/Krew1nd/geoip/actions/workflows/build.yml/badge.svg)](https://github.com/krew1nd/geoip/actions/workflows/build.yml)
 
 ## 与官方版 GeoIP 的区别
 
 - 中国大陆 IPv4 地址数据使用 [IPIP.net](https://github.com/17mon/china_ip_list/blob/master/china_ip_list.txt)、[纯真CN数据库](https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt)
+- 中国大陆 IPv6 地址数据使用[Clang.CN](https://ispip.clang.cn/all_cn_ipv6.txt)、[中国运营商IP地址库](https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt)
 - 包含特殊类别：
   - `GEOIP,TWITTER`
   - `GEOIP,NETFLIX`
