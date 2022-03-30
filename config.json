@@ -54,7 +54,7 @@
       "action": "output",
       "args": {
         "outputName": "GeoLite2.mmdb",
-        "wantedList": ["cn", "private", "netflix", "telegram"]
+        "wantedList": ["cn", "private", "google", "netflix", "telegram", "twitter"]
       }
     },
     {
