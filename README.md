@@ -18,11 +18,11 @@ Forked from [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，部分
 ## 下载地址
 
 - **GeoLite2.mmdb**：
- - [https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb](https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb)
- - [https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb](https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb)
+  - [https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb](https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb)
+  - [https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb](https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb)
 - **GeoLite2.mmdb.sha256sum**：
- - [https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb.sha256sum](https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb.sha256sum)
- - [https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb.sha256sum](https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb.sha256sum)
+  - [https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb.sha256sum](https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb.sha256sum)
+  - [https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb.sha256sum](https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb.sha256sum)
  
 ## License
 
