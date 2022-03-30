@@ -7,7 +7,7 @@ Forked from [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，部分
 ## 与官方版 GeoIP 的区别
 
 - 中国大陆 IPv4 地址数据使用 [IPIP.net](https://github.com/17mon/china_ip_list/blob/master/china_ip_list.txt)、[纯真CN数据库](https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt)
-- 中国大陆 IPv6 地址数据使用[Clang.CN](https://ispip.clang.cn/all_cn_ipv6.txt)、[中国运营商IP地址库](https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt)
+- 中国大陆 IPv6 地址数据使用 [Clang.CN](https://ispip.clang.cn/all_cn_ipv6.txt)、[中国运营商IP地址库](https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt)
 - 包含特殊类别：
   - `GEOIP,TWITTER`
   - `GEOIP,NETFLIX`
@@ -19,9 +19,11 @@ Forked from [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，部分
 
 - **GeoLite2.mmdb**：
  [https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb](https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb)
+ [https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb](https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb)
 - **GeoLite2.mmdb.sha256sum**：
  [https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb.sha256sum](https://raw.githubusercontent.com/Krew1nd/geoip/release/GeoLite2.mmdb.sha256sum)
-
+ [https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb.sha256sum](https://cdn.jsdelivr.net/gh/Krew1nd/geoip@release/GeoLite2.mmdb.sha256sum)
+ 
 ## License
 
 [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
