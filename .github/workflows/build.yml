@@ -24,8 +24,8 @@ jobs:
 
       - name: Set variables
         run: |
-          echo "TAG_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
-          echo "RELEASE_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+          echo "TAG_NAME=$(+8 hour +%Y%m%d%H%M)" >> $GITHUB_ENV
+          echo "RELEASE_NAME=$(+8 hour +%Y%m%d%H%M)" >> $GITHUB_ENV
         shell: bash
 
       - name: Checkout codebase
