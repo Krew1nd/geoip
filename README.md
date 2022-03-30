@@ -1,6 +1,6 @@
 # 简介
 
-Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每天0点自动生成 MaxMind mmdb 格式文件`GeoLite2.mmdb`
+Forked from [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项目每天0点自动生成 MaxMind mmdb 格式文件`GeoLite2.mmdb`
 
 [![Build GeoLite2.mmdb](https://github.com/Krew1nd/geoip/actions/workflows/build.yml/badge.svg)](https://github.com/krew1nd/geoip/actions/workflows/build.yml)
 
