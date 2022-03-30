@@ -8,8 +8,10 @@ Forked From [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip)，本项
 
 - 中国大陆 IPv4 地址数据使用 [IPIP.net](https://github.com/17mon/china_ip_list/blob/master/china_ip_list.txt)、[纯真CN数据库](https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt)
 - 包含特殊类别：
+  - `GEOIP,TWITTER`
   - `GEOIP,NETFLIX`
   - `GEOIP,TELEGRAM`
+  - `GEOIP,GOOGLE`
   - `GEOIP,PRIVATE`
 
 ## 下载地址
