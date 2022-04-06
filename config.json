@@ -31,15 +31,6 @@
       "action": "add",
       "args": {
         "name": "cn",
-        "uri": "https://raw.githubusercontent.com/metowolf/iplist/master/data/special/china.txt",
-        "onlyIPType": "ipv4"
-      }
-    },
-    {
-      "type": "text",
-      "action": "add",
-      "args": {
-        "name": "cn",
         "uri": "https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt",
         "onlyIPType": "ipv4"
       }
