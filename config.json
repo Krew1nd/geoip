@@ -31,7 +31,7 @@
       "action": "add",
       "args": {
         "name": "cn",
-        "uri": "https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt",
+        "uri": "https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt",
         "onlyIPType": "ipv4"
       }
     },
